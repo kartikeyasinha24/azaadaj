@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azaadaj
+- 👋 Hi, I’m Kartikeya Sinha
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Django-based projects
